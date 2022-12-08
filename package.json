@@ -1,0 +1,16 @@
+{
+  "name": "SAMTR-web",
+  "version": "0.0.1",
+  "description": "A site where you know about SAMTR Minecraft server",
+  "repository": "https://github.com/Big-Cake-jpg/SAMTR-Web",
+  "author": "SAMTR Server",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "vuepress": "^2.0.0-beta.53"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  }
+}
