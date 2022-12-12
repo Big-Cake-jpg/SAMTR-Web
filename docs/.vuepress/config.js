@@ -19,7 +19,7 @@ export default defineUserConfig({
   lang: 'zh-CN',
   title: '苏安市轨道交通建设',
   description: 'Minecraft Transit Railway 爱好者们的一方小小土地',
-  base: '/',
+  base: "/",
   head: [
     ['link', { rel: 'icon', href: '/images/favicon.png' }],
     ['link', { rel: 'manifest', href: '/manifest.webmanifest' }],
