@@ -19,6 +19,7 @@ export default defineUserConfig({
   lang: 'zh-CN',
   title: '苏安市轨道交通建设',
   description: 'Minecraft Transit Railway 爱好者们的一方小小土地',
+  base: '/',
   head: [
     ['link', { rel: 'icon', href: '/images/favicon.png' }],
     ['link', { rel: 'manifest', href: '/manifest.webmanifest' }],
@@ -44,6 +45,12 @@ export default defineUserConfig({
         link: 'https://map.samtr.cakemc.top',
       },
     ],
+    repo: 'Big-Cake-jpg/SAMTR-Web',
+    editLink: true,
+    editLinkText: '帮助我们完善这个页面',
+    docsBranch: 'master',
+    docsDir: 'docs',
+    lastUpdated: true,
     sidebar: {
       '/getting-started/': [
         '/getting-started/join.html',
