@@ -62,7 +62,7 @@ export default defineUserConfig({
         {
           text: '线路一览',
           collapsible: true,
-          children: ['/routes/line-1.md', '/routes/line-2.md', '/routes/line-3.md', '/routes/kaedehara-line.md', '/routes/south-north-line.md', '/routes/S1.md', '/routes/S2.md'],
+          children: ['/routes/line-1.md', '/routes/line-2.md', '/routes/line-3.md', '/routes/line-6.md', '/routes/kaedehara-line.md', '/routes/south-north-line.md', '/routes/S1.md', '/routes/S2.md'],
         },
       ],
       '/about/': [
