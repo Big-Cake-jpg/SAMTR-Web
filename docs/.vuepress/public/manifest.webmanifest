@@ -1,0 +1,16 @@
+{
+    "name": "SAMTR Documentation",
+    "short_name": "SAMTR Documentation",
+    "description": "关于 SAMTR 的一切",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#fff",
+    "theme_color": "#e1c745",
+    "icons": [
+      {
+        "src": "/images/favicon.png",
+        "sizes": "640x640",
+        "type": "image/png"
+      }
+    ]
+  }
